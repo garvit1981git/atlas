@@ -1,6 +1,6 @@
 import { FaLongArrowAltRight } from "react-icons/fa";
 import About from "./about";
-import worldLogo from "../images/christine-roy-ir5MHI6rPg0-unsplash";
+import worldLogo from "../images/christine-roy-ir5MHI6rPg0-unsplash.jpg";
 let Home = () => {
   return (
     <>
