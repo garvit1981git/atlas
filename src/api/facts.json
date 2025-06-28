@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "facts": [
+      "Japan has the world's oldest company, founded in 578 AD.",
+      "There are more pets than children in Japan."
+    ]
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 203000000,
+    "facts": [
+      "Brazil is home to the Amazon Rainforest.",
+      "It was the only country to play in every FIFA World Cup since 1930."
+    ]
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 39000000,
+    "facts": [
+      "Canada has the longest coastline in the world.",
+      "It has more lakes than the rest of the world combined."
+    ]
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1410000000,
+    "facts": [
+      "India is the world's largest democracy.",
+      "It is the birthplace of chess and yoga."
+    ]
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "population": 68000000,
+    "facts": [
+      "France is the most visited country in the world.",
+      "It was the first country to ban supermarkets from throwing away food."
+    ]
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "facts": [
+      "Australia has more kangaroos than people.",
+      "It is the only continent covered by a single country."
+    ]
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 111000000,
+    "facts": [
+      "Egypt is home to the only remaining ancient world wonder – the Great Pyramid of Giza.",
+      "The calendar used today originated in ancient Egypt."
+    ]
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "facts": [
+      "Germany is known for having over 1,500 different types of sausages.",
+      "It was the first country to adopt daylight saving time in 1916."
+    ]
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": 52000000,
+    "facts": [
+      "South Korea has one of the fastest internet speeds in the world.",
+      "It celebrates a unique holiday called ‘Black Day’ for single people."
+    ]
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": 61000000,
+    "facts": [
+      "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein.",
+      "It is home to the Cradle of Humankind, where some of the oldest human fossils were found."
+    ]
+  }
+]
