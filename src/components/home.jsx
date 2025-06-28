@@ -1,5 +1,6 @@
 import { FaLongArrowAltRight } from "react-icons/fa";
 import About from "./about";
+import worldLogo from "../images/christine-roy-ir5MHI6rPg0-unsplash";
 let Home = () => {
   return (
     <>
@@ -23,7 +24,7 @@ let Home = () => {
 
           {/* Image on the right side (column 2), spanning all rows */}
           <img
-            src="./images/christine-roy-ir5MHI6rPg0-unsplash.jpg"
+            src={worldLogo}
             alt="world"
             className="col-start-2 row-span-3 h-[60%] w-[60%] object-cover rounded-4xl transition duration-300 hover:scale-105 m-[auto]"
           />
